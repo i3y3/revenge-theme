@@ -1,0 +1,24 @@
+{
+  "name": "Red & Black",
+  "author": "ChatGPT",
+  "description": "Sleek dark theme with red accents for Revenge/Bunny.",
+  "version": "1.0.0",
+  "colors": {
+    "primary": "#FF0000",
+    "background": "#000000",
+    "header": "#1a1a1a",
+    "sidebar": "#0d0d0d",
+    "text": "#FFFFFF",
+    "accent": "#FF0000",
+    "mention": "#FF4444",
+    "link": "#FF5555",
+    "button": "#FF1111"
+  },
+  "ui": {
+    "chatBackground": "#0d0d0d",
+    "inputBackground": "#1a1a1a",
+    "messageBackground": "#1a1a1a",
+    "highlight": "#FF0000",
+    "shadow": "#000000"
+  }
+}
